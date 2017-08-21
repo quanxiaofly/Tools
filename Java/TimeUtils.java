@@ -25,7 +25,7 @@ import com.eht.y1da.Version;
  * @version 1.0 2016-05-13
  * @since 1.0
  */
-public class ConvertDateTime implements Serializable{
+public class TimeUtils implements Serializable{
 	private static final long serialVersionUID = 8494167640471712987L;
 	final static int oneDayContHor = 24;
 	// 预定义格式字符串
